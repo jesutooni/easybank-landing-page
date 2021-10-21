@@ -17,6 +17,9 @@ module.exports = {
       backgroundImage: {
         'desktop': "url('/src/assets/images/bg-intro-desktop.svg')",
         'mobile': "url('/src/assets/images/bg-intro-mobile.svg')",
+      },
+      height: {
+        '80v': '80vh'
       }
     },
   },

@@ -1,24 +1,22 @@
 <template>
-  <div id="app">
-    <div >
-      <header class="max-w-6xl md:mx-auto">
-        <top-header />
-      </header>
-      <main>
-        <section>
-          <intro />
-        </section>
-        <section>
-          <reason />
-        </section>
-        <section>
-          <articles />
-        </section>
-      </main>
-      <footer>
-        <bottom-footer />
-      </footer>
-    </div>
+  <div id="app" class="font-publicSans">
+    <header>
+      <top-header />
+    </header>
+    <main>
+      <section>
+        <intro />
+      </section>
+      <section>
+        <reason />
+      </section>
+      <section>
+        <articles />
+      </section>
+    </main>
+    <footer>
+      <bottom-footer />
+    </footer>
   </div>
 </template>
 
