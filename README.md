@@ -1,7 +1,6 @@
 # Frontend Mentor - Easybank landing page solution
 
-This is a solution to the [Easybank landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
+This is a solution to the [Easybank landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Overview
 
@@ -22,14 +21,12 @@ Users should be able to:
 ### Built with
 
 - HTML5
-- CSS
+- Tailwind CSS
 - Vue.js
 - Mobile-first workflow
-
-
 
 ## Author
 
 - LinkedIn - [Uyoyou Edewor](https://www.linkedin.com/in/uyoyou-edewor/)
 - Frontend Mentor - [@jesutooni](https://www.frontendmentor.io/profile/jesutooni)
-- Twitter - [@jesutooni_](https://www.twitter.com/jesutooni_)
+- Twitter - [@jesutooni\_](https://www.twitter.com/jesutooni_)
